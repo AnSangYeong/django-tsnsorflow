@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/003 django-tsnsorflow.iml" filepath="$PROJECT_DIR$/.idea/003 django-tsnsorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/django-tensorflow.iml" filepath="$PROJECT_DIR$/.idea/django-tensorflow.iml" />
     </modules>
   </component>
 </project>
